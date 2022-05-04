@@ -1,0 +1,13 @@
+.line{
+    font-family: 'Mulish', sans-serif;
+}
+.cropped {
+   
+    height: 600px; 
+    overflow: hidden;
+   
+    }
+    
+    .cropped img {
+    margin: -10px 0px 0px -180px;
+    }
